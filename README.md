@@ -1,1 +1,1 @@
-# GenAI_Externship_Password_Strength_Checker
+This project is designed to evaluate the strength of a user-inputted password. The program checks the password for the following criteria: length, at least one uppercase letter, one lowercase letter, one digit, and one special character. It provides feedback on any criteria that the password fails, and a strength score is given based on how many conditions the password meets.
